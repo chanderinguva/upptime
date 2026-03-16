@@ -79,18 +79,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/airflow.inguva.dev.ico",
     "slug": "scim-server",
     "status": "up",
-    "uptime": "23.11%",
-    "uptimeDay": "23.11%",
-    "uptimeWeek": "23.11%",
-    "uptimeMonth": "23.11%",
-    "uptimeYear": "23.11%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 115,
     "timeDay": 115,
     "timeWeek": 115,
     "timeMonth": 115,
     "timeYear": 115,
-    "dailyMinutesDown": {
-      "2026-03-16": 8
-    }
+    "dailyMinutesDown": {}
   }
 ]
