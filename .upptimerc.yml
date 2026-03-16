@@ -11,7 +11,7 @@ sites:
   - name: Jira
     url: https://inguva-dev.atlassian.net
   - name: SCIM Server
-    url: https://airflow.inguva.dev/scim/v2/ServiceProviderConfig
+    url: https://airflow.inguva.dev/scim/health
 
 assignees:
   - chanderinguva
