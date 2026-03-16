@@ -8,8 +8,18 @@ sites:
     url: https://login.inguva.dev
   - name: Blog
     url: https://blog.inguva.dev
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 303
   - name: Jira
     url: https://inguva-dev.atlassian.net
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 303
   - name: SCIM Server
     url: https://airflow.inguva.dev/scim/health
 
