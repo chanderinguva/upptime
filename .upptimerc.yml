@@ -22,6 +22,8 @@ sites:
       - 303
   - name: SCIM Server
     url: https://airflow.inguva.dev/scim/health
+  - name: API Gateway
+    url: https://api.inguva.dev/health
 
 assignees:
   - chanderinguva
