@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 564,
-    "timeDay": 564,
-    "timeWeek": 564,
-    "timeMonth": 564,
-    "timeYear": 564,
+    "time": 436,
+    "timeDay": 436,
+    "timeWeek": 436,
+    "timeMonth": 436,
+    "timeYear": 436,
     "dailyMinutesDown": {}
   },
   {
@@ -41,11 +41,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.inguva.dev.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "0.45%",
-    "uptimeDay": "0.45%",
-    "uptimeWeek": "0.45%",
-    "uptimeMonth": "0.45%",
-    "uptimeYear": "0.45%",
+    "uptime": "0.35%",
+    "uptimeDay": "0.35%",
+    "uptimeWeek": "0.35%",
+    "uptimeMonth": "0.35%",
+    "uptimeYear": "0.35%",
     "time": 128,
     "timeDay": 128,
     "timeWeek": 128,
@@ -79,16 +79,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/airflow.inguva.dev.ico",
     "slug": "scim-server",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "92.52%",
+    "uptimeDay": "92.52%",
+    "uptimeWeek": "92.52%",
+    "uptimeMonth": "92.52%",
+    "uptimeYear": "92.52%",
     "time": 82,
     "timeDay": 82,
     "timeWeek": 82,
     "timeMonth": 82,
     "timeYear": 82,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-16": 0
+    }
   }
 ]
