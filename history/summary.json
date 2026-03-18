@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/login.inguva.dev.ico",
     "slug": "okta-login",
     "status": "down",
-    "uptime": "78.45%",
-    "uptimeDay": "56.29%",
-    "uptimeWeek": "78.45%",
-    "uptimeMonth": "78.45%",
-    "uptimeYear": "78.45%",
+    "uptime": "77.81%",
+    "uptimeDay": "54.63%",
+    "uptimeWeek": "77.81%",
+    "uptimeMonth": "77.81%",
+    "uptimeYear": "77.81%",
     "time": 463,
     "timeDay": 0,
     "timeWeek": 463,
     "timeMonth": 463,
     "timeYear": 463,
     "dailyMinutesDown": {
-      "2026-03-18": 352,
+      "2026-03-18": 376,
       "2026-03-17": 278
     }
   },
@@ -99,19 +99,19 @@
     "url": "https://api.inguva.dev/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.inguva.dev.ico",
     "slug": "api-gateway",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 177,
-    "timeDay": 231,
-    "timeWeek": 177,
-    "timeMonth": 177,
-    "timeYear": 177,
+    "status": "up",
+    "uptime": "98.87%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "98.87%",
+    "uptimeMonth": "98.87%",
+    "uptimeYear": "98.87%",
+    "time": 163,
+    "timeDay": 190,
+    "timeWeek": 163,
+    "timeMonth": 163,
+    "timeYear": 163,
     "dailyMinutesDown": {
-      "2026-03-18": 0
+      "2026-03-18": 24
     }
   }
 ]
