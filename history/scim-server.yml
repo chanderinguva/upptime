@@ -1,7 +1,7 @@
 url: https://airflow.inguva.dev/scim/health
 status: up
 code: 200
-responseTime: 29
-lastUpdated: 2026-03-23T23:08:35.467Z
+responseTime: 54
+lastUpdated: 2026-03-24T23:07:46.178Z
 startTime: 2026-03-16T05:11:00.240Z
 generator: Upptime <https://github.com/upptime/upptime>
