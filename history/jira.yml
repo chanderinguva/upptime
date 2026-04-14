@@ -1,7 +1,7 @@
 url: https://inguva-dev.atlassian.net
-status: up
-code: 200
-responseTime: 470
-lastUpdated: 2026-04-13T23:16:29.551Z
+status: down
+code: 503
+responseTime: 347
+lastUpdated: 2026-04-14T06:17:00.028Z
 startTime: 2026-03-16T05:10:59.225Z
 generator: Upptime <https://github.com/upptime/upptime>
