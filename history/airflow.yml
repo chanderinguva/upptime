@@ -1,7 +1,7 @@
 url: https://airflow.inguva.dev
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-04-15T23:16:37.640Z
+status: up
+code: 200
+responseTime: 883
+lastUpdated: 2026-04-16T13:36:01.654Z
 startTime: 2026-03-16T05:10:55.761Z
 generator: Upptime <https://github.com/upptime/upptime>
