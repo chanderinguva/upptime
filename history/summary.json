@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/airflow.inguva.dev.ico",
     "slug": "airflow",
     "status": "down",
-    "uptime": "49.41%",
+    "uptime": "49.19%",
     "uptimeDay": "36.06%",
     "uptimeWeek": "36.58%",
     "uptimeMonth": "35.16%",
-    "uptimeYear": "49.41%",
+    "uptimeYear": "49.19%",
     "time": 920,
     "timeDay": 1771,
     "timeWeek": 1379,
@@ -110,7 +110,7 @@
       "2026-07-08": 910,
       "2026-07-09": 913,
       "2026-07-10": 920,
-      "2026-07-11": 31
+      "2026-07-11": 782
     }
   },
   {
@@ -130,7 +130,7 @@
     "timeMonth": 0,
     "timeYear": 463,
     "dailyMinutesDown": {
-      "2026-07-11": 31,
+      "2026-07-11": 782,
       "2026-07-10": 1440,
       "2026-07-09": 1440,
       "2026-07-08": 1440,
@@ -255,11 +255,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.inguva.dev.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "34.10%",
+    "uptime": "34.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "59.08%",
-    "uptimeYear": "34.10%",
+    "uptimeMonth": "60.79%",
+    "uptimeYear": "34.39%",
     "time": 196,
     "timeDay": 797,
     "timeWeek": 500,
@@ -353,11 +353,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/inguva-dev.atlassian.net.ico",
     "slug": "jira",
     "status": "down",
-    "uptime": "89.70%",
+    "uptime": "89.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "60.67%",
-    "uptimeYear": "89.70%",
+    "uptimeMonth": "58.96%",
+    "uptimeYear": "89.30%",
     "time": 772,
     "timeDay": 761,
     "timeWeek": 470,
@@ -367,7 +367,7 @@
       "2026-04-14": 42,
       "2026-05-12": 33,
       "2026-06-07": 26,
-      "2026-07-11": 31,
+      "2026-07-11": 782,
       "2026-07-10": 1440,
       "2026-07-09": 1440,
       "2026-07-08": 1440,
@@ -387,16 +387,16 @@
     "url": "https://airflow.inguva.dev/scim/health",
     "icon": "https://icons.duckduckgo.com/ip3/airflow.inguva.dev.ico",
     "slug": "scim-server",
-    "status": "down",
-    "uptime": "49.87%",
-    "uptimeDay": "39.34%",
+    "status": "up",
+    "uptime": "49.65%",
+    "uptimeDay": "39.35%",
     "uptimeWeek": "38.10%",
     "uptimeMonth": "35.83%",
-    "uptimeYear": "49.87%",
+    "uptimeYear": "49.65%",
     "time": 102,
-    "timeDay": 174,
-    "timeWeek": 157,
-    "timeMonth": 148,
+    "timeDay": 114,
+    "timeWeek": 152,
+    "timeMonth": 147,
     "timeYear": 102,
     "dailyMinutesDown": {
       "2026-04-09": 950,
@@ -493,7 +493,7 @@
       "2026-07-08": 906,
       "2026-07-09": 908,
       "2026-07-10": 874,
-      "2026-07-11": 31
+      "2026-07-11": 782
     }
   },
   {
@@ -501,15 +501,15 @@
     "url": "https://api.inguva.dev/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.inguva.dev.ico",
     "slug": "api-gateway",
-    "status": "down",
-    "uptime": "49.87%",
+    "status": "up",
+    "uptime": "49.65%",
     "uptimeDay": "39.68%",
     "uptimeWeek": "38.43%",
     "uptimeMonth": "36.42%",
-    "uptimeYear": "49.87%",
+    "uptimeYear": "49.65%",
     "time": 165,
-    "timeDay": 185,
-    "timeWeek": 144,
+    "timeDay": 154,
+    "timeWeek": 145,
     "timeMonth": 146,
     "timeYear": 165,
     "dailyMinutesDown": {
@@ -608,7 +608,7 @@
       "2026-07-08": 901,
       "2026-07-09": 903,
       "2026-07-10": 869,
-      "2026-07-11": 31
+      "2026-07-11": 782
     }
   }
 ]
