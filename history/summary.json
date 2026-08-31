@@ -4,21 +4,20 @@
     "url": "https://airflow.inguva.dev",
     "icon": "https://icons.duckduckgo.com/ip3/airflow.inguva.dev.ico",
     "slug": "airflow",
-    "status": "up",
-    "uptime": "60.77%",
-    "uptimeDay": "37.29%",
-    "uptimeWeek": "35.30%",
-    "uptimeMonth": "34.45%",
-    "uptimeYear": "60.77%",
+    "status": "down",
+    "uptime": "61.15%",
+    "uptimeDay": "38.02%",
+    "uptimeWeek": "35.42%",
+    "uptimeMonth": "34.48%",
+    "uptimeYear": "61.15%",
     "time": 1067,
     "timeDay": 611,
     "timeWeek": 1068,
     "timeMonth": 1436,
     "timeYear": 1067,
     "dailyMinutesDown": {
-      "2026-05-21": 924,
-      "2026-05-20": 103,
       "2026-05-22": 891,
+      "2026-05-21": 108,
       "2026-05-23": 926,
       "2026-05-24": 905,
       "2026-05-25": 915,
@@ -119,7 +118,7 @@
       "2026-08-28": 1021,
       "2026-08-29": 906,
       "2026-08-30": 900,
-      "2026-08-31": 796
+      "2026-08-31": 806
     }
   },
   {
@@ -139,7 +138,7 @@
     "timeMonth": 0,
     "timeYear": 463,
     "dailyMinutesDown": {
-      "2026-08-31": 1331,
+      "2026-08-31": 1354,
       "2026-08-30": 1440,
       "2026-08-29": 1440,
       "2026-08-28": 1440,
@@ -315,11 +314,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.inguva.dev.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "54.37%",
+    "uptime": "54.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "54.37%",
+    "uptimeYear": "54.38%",
     "time": 281,
     "timeDay": 0,
     "timeWeek": 496,
@@ -427,7 +426,7 @@
       "2026-04-14": 42,
       "2026-05-12": 33,
       "2026-06-07": 26,
-      "2026-08-31": 1331,
+      "2026-08-31": 1354,
       "2026-08-30": 1440,
       "2026-08-29": 1440,
       "2026-08-28": 1440,
@@ -499,11 +498,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/airflow.inguva.dev.ico",
     "slug": "scim-server",
     "status": "down",
-    "uptime": "61.53%",
-    "uptimeDay": "38.26%",
-    "uptimeWeek": "36.18%",
-    "uptimeMonth": "35.04%",
-    "uptimeYear": "61.53%",
+    "uptime": "61.52%",
+    "uptimeDay": "37.77%",
+    "uptimeWeek": "36.16%",
+    "uptimeMonth": "35.02%",
+    "uptimeYear": "61.52%",
     "time": 111,
     "timeDay": 192,
     "timeWeek": 175,
@@ -612,7 +611,7 @@
       "2026-08-28": 1016,
       "2026-08-29": 887,
       "2026-08-30": 884,
-      "2026-08-31": 787
+      "2026-08-31": 810
     }
   },
   {
@@ -622,9 +621,9 @@
     "slug": "api-gateway",
     "status": "down",
     "uptime": "61.66%",
-    "uptimeDay": "38.93%",
-    "uptimeWeek": "36.56%",
-    "uptimeMonth": "35.48%",
+    "uptimeDay": "38.10%",
+    "uptimeWeek": "36.50%",
+    "uptimeMonth": "35.46%",
     "uptimeYear": "61.66%",
     "time": 162,
     "timeDay": 207,
@@ -734,7 +733,7 @@
       "2026-08-28": 1011,
       "2026-08-29": 882,
       "2026-08-30": 879,
-      "2026-08-31": 782
+      "2026-08-31": 805
     }
   }
 ]
