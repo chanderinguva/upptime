@@ -1,7 +1,7 @@
 url: https://api.inguva.dev/health
-status: up
-code: 200
-responseTime: 124
-lastUpdated: 2026-10-31T13:02:06.400Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2026-10-31T22:22:54.009Z
 startTime: 2026-03-16T19:07:30.525Z
 generator: Upptime <https://github.com/upptime/upptime>
