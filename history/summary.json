@@ -4,17 +4,17 @@
     "url": "https://airflow.inguva.dev",
     "icon": "https://icons.duckduckgo.com/ip3/airflow.inguva.dev.ico",
     "slug": "airflow",
-    "status": "down",
+    "status": "up",
     "uptime": "72.96%",
-    "uptimeDay": "37.76%",
-    "uptimeWeek": "37.05%",
-    "uptimeMonth": "36.38%",
+    "uptimeDay": "37.09%",
+    "uptimeWeek": "36.94%",
+    "uptimeMonth": "36.35%",
     "uptimeYear": "72.96%",
-    "time": 1168,
-    "timeDay": 1866,
-    "timeWeek": 1338,
-    "timeMonth": 1403,
-    "timeYear": 1168,
+    "time": 1172,
+    "timeDay": 2040,
+    "timeWeek": 1439,
+    "timeMonth": 1424,
+    "timeYear": 1172,
     "dailyMinutesDown": {
       "2026-07-29": 898,
       "2026-07-28": 100,
@@ -117,7 +117,7 @@
       "2026-11-03": 895,
       "2026-11-04": 906,
       "2026-11-05": 896,
-      "2026-11-06": 842
+      "2026-11-06": 854
     }
   },
   {
@@ -137,7 +137,7 @@
     "timeMonth": 0,
     "timeYear": 463,
     "dailyMinutesDown": {
-      "2026-11-06": 842,
+      "2026-11-06": 855,
       "2026-11-05": 1440,
       "2026-11-04": 1440,
       "2026-11-03": 1440,
@@ -495,7 +495,7 @@
       "2026-04-14": 42,
       "2026-05-12": 33,
       "2026-06-07": 26,
-      "2026-11-06": 842,
+      "2026-11-06": 855,
       "2026-11-05": 1440,
       "2026-11-04": 1440,
       "2026-11-03": 1440,
